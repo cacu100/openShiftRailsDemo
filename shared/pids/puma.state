@@ -1,0 +1,5 @@
+---
+pid: 115573
+control_url: unix:///tmp/puma-status-1625761906951-115573
+control_auth_token: 686b98e13404d72dff3409ca19968872
+running_from: "/home/carlos/ruby/blog"
